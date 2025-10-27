@@ -4,7 +4,7 @@ namespace Lexicon_uppgift_2___BizzFuzz
 {
     internal class Program
     {
-        static void Main(string[] args) // HEJ
+        static void Main(string[] args) 
         {
             string? choice;
 
